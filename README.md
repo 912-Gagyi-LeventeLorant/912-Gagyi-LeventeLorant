@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lóri
 
 
-[Fundamentals of programming](https://github.com/cs-ubbcluj-ro/a1-912-Gagyi-LeventeLorant)
+💻[Fundamentals of programming](https://github.com/cs-ubbcluj-ro/a1-912-Gagyi-LeventeLorant)
 
 
 

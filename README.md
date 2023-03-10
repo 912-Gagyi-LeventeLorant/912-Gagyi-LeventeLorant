@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Lóri
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/912-Gagyi-LeventeLorant/github-readme-stats)
+[Fundamentals of programming]([https://github.com/vuejs/vue](https://github.com/cs-ubbcluj-ro/a1-912-Gagyi-LeventeLorant))
 
 
 

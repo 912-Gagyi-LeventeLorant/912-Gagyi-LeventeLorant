@@ -5,6 +5,8 @@
 
 - 💻[Fundamentals of programming](https://github.com/cs-ubbcluj-ro/a1-912-Gagyi-LeventeLorant)
 
+- 🏀[Basketball training(Physics Simulation)](https://github.com/912-Gagyi-LeventeLorant/Basketball-Training)
+
 - 📫 How to reach me **gagyi.lorant@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
